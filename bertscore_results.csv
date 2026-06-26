@@ -1,0 +1,4 @@
+query,bert_precision,bert_recall,bert_f1
+Cardiomegaly chest X-ray enlarged heart diagnosis,0.7173,0.8054,0.7588
+Pleural effusion fluid chest X-ray findings,0.7768,0.8014,0.7889
+Pneumothorax air chest X-ray lung collapse,0.7375,0.8587,0.7935

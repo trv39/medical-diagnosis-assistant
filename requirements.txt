@@ -1,0 +1,6 @@
+streamlit
+onnxruntime
+faiss-cpu
+sentence-transformers
+Pillow
+numpy
